@@ -1,6 +1,6 @@
 // complete this js code
 function Person(name, age) {
-	this.person = person;
+	this.name = name;
 	this.age=age;
 }
 Person.prototype.greet = function(){
